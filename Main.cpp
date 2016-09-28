@@ -2,7 +2,9 @@
 #include <cmath>
 #include <cstdlib>
 using namespace std;
-
+//////////////////////////////////
+///
+//////////////////////////////////
 int main()
 {
     double a =  1.0;
